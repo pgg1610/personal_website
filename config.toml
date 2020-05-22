@@ -1,4 +1,4 @@
-baseURL = "https://hopeful-noyce-2f7ecd.netlify.app/"
+baseURL = "https://pushkarghanekar.com/"
 languageCode = "en-us"
 title = "Pushkar Ghanekar"
 theme = "personal-web"
@@ -56,12 +56,12 @@ pygmentsCodeFences=true
 
 [menu]
 
-[[menu.main]]
-  identifier = "portfolio"
-  name = "Portfolio"
-  title = "Portfolio"
-  url = "/portfolio/"
-  weight = -120
+#[[menu.main]]
+#  identifier = "portfolio"
+#  name = "Portfolio"
+#  title = "Portfolio"
+#  url = "/portfolio/"
+#  weight = -120
 
 #[[menu.main]]
 #  identifier = "about"
@@ -77,12 +77,12 @@ pygmentsCodeFences=true
   url = "/post/april2020_resume_pushkar.pdf"
   weight = -110
 
-[[menu.main]]
-  identifier = "links"
-  name = "Links"
-  title = "Blog section"
-  url = "/links/"
-  weight = -100
+#[[menu.main]]
+#  identifier = "links"
+#  name = "Links"
+#  title = "Blog section"
+#  url = "/links/"
+#  weight = -100
 
 #[[menu.main]]
 #  identifier = "Blog"
