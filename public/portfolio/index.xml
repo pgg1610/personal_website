@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Pushkar Ghanekar</title>
+    <link>/portfolio/</link>
+    <description>Recent content in Projects on Pushkar Ghanekar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2020 Pushkar Ghanekar</copyright>
+    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate>
+    
+	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blah blah</title>
+      <link>/portfolio/sample-project/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>/portfolio/sample-project/</guid>
+      <description>This would be a description of your sample project. You can add any content you&amp;rsquo;d like.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Origin of Electronic Modification of Platinum in a Pt-V Alloy</title>
+      <link>/portfolio/pt3v/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>/portfolio/pt3v/</guid>
+      <description>Synopsis: Using experiment and theory to investigate the active site for propane dehydrogenation reaction. Alloying noble metals, platinum in this case, with another element (like vanadium) leads to changes in the catalytic performance which are explained by perturbation in the electronic and structural properties of the alloys as evidenced through multiple characterisation techniques and atomic-structure theory calculations.</description>
+    </item>
+    
+    <item>
+      <title>Water Gas Shift at Pt/MgO Boundaries</title>
+      <link>/portfolio/ptmgo/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>/portfolio/ptmgo/</guid>
+      <description>Synopsis: Catalysts comprising of metal nanoparticles dispersed on oxide supports have found applications in a vast number of chemical processes related to energy generation and environmental. In some cases, the interface between the metal and the supporting oxide is theorized to exhibit unique reactivity compared to just the metal or the oxide in isolation.
+Water-Gas Shift reaction (WGSR) is one such reaction which is expected to show sensitivity to such metal/oxide interfaces.</description>
+    </item>
+    
+  </channel>
+</rss>

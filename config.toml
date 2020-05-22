@@ -1,0 +1,108 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Pushkar Ghanekar"
+theme = "personal-web"
+copyright="© 2020 Pushkar Ghanekar"
+googleAnalytics = ""
+enableEmoji=true
+enableRobotsTXT=true
+pygmentsUseClasses=true
+pygmentsCodeFences=true
+
+[params.intro]
+  main = "Pushkar Ghanekar"
+  sub = "Ph.D. Candidate @ Purdue University"
+
+[taxonomies]
+  design = "designs"
+  tech = "techs"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[params]
+  breadcrumb = true
+  accentColor = "#FD3519"
+  mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+
+[params.notFound]
+  gopher = "/images/gopher.png" # checkout https://gopherize.me/
+  h1 = 'Bummer!'
+  p = "It seems that this page doesn't exist."
+
+[params.sections]
+  # Define how your sections will be called
+  # when automatically pulled. For instance in the 404 page
+  post = "article"
+  portfolio = "portfolio"
+
+[params.sidebar]
+  backgroundImage = '/images/Purdue_Engineering_fountain.jpg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  gradientOverlay = 'rgba(73,91,249,0.8),rgba(150,43,43,0.8)' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
+  logo = "/images/main_image.jpg" # - default "/images/edna-west.jpg"
+[params.assets]
+  favicon = ""
+  customCSS = ""
+
+[params.social]
+  github = "https://github.com/pgg1610"
+  #instagram = "https://www.instagram.com/pgg1610/"
+  twitter = "https://twitter.com/mepgg"
+  linkedin = "https://www.linkedin.com/in/pushkar-ghanekar-a077a557/"
+[params.contact]
+  email = "pghaneka@purdue.edu"
+  text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
+
+
+[menu]
+
+[[menu.main]]
+  identifier = "portfolio"
+  name = "Portfolio"
+  title = "Portfolio"
+  url = "/portfolio/"
+  weight = -120
+
+#[[menu.main]]
+#  identifier = "about"
+#  name = "About"
+#  title = "About section"
+#  url = "/about/"
+#  weight = -120
+
+[[menu.main]]
+  identifier = "CV"
+  name = "CV"
+  title = "CV"
+  url = "/post/april2020_resume_pushkar.pdf"
+  weight = -110
+
+[[menu.main]]
+  identifier = "links"
+  name = "Links"
+  title = "Blog section"
+  url = "/links/"
+  weight = -100
+
+#[[menu.main]]
+#  identifier = "Blog"
+#  name = "Blog"
+#  title = "Blog section"
+#  url = "/post/"
+#  weight = -100
+  
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false
