@@ -1,4 +1,4 @@
-baseURL = "https://hopeful-noyce-2f7ecd.netlify.app"
+baseURL = "https://hopeful-noyce-2f7ecd.netlify.app/"
 languageCode = "en-us"
 title = "Pushkar Ghanekar"
 theme = "personal-web"
