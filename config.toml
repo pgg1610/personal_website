@@ -46,9 +46,9 @@ pygmentsCodeFences=true
 
 [params.social]
   github = "https://github.com/pgg1610"
-  #instagram = "https://www.instagram.com/pgg1610/"
   twitter = "https://twitter.com/mepgg"
   linkedin = "https://www.linkedin.com/in/pushkar-ghanekar-a077a557/"
+  instagram = "https://www.instagram.com/pgg1610/"
 [params.contact]
   email = "pghaneka@purdue.edu"
   text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
@@ -71,9 +71,9 @@ pygmentsCodeFences=true
 #  weight = -120
 
 [[menu.main]]
-  identifier = "CV"
-  name = "CV"
-  title = "CV"
+  identifier = "Resume"
+  name = "Resume"
+  title = "Resume"
   url = "/post/Pushkar_Ghanekar_Resume_April2020.pdf"
   weight = -110
 
