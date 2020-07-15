@@ -76,7 +76,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   identifier = "Resume"
   name = "Resume"
   title = "Resume"
-  url = "/post/Pushkar_Ghanekar_Resume_April2020.pdf"
+  url = "/post/July2020_resume_pushkar.pdf"
   weight = -110
 
 #[[menu.main]]
